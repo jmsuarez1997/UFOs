@@ -21,9 +21,7 @@ function buildTable(data) {
             cell.text(val);
             }
         );
-
     });
-
 }
 
 //create a function for handling the data after a date is given
@@ -41,7 +39,6 @@ function handleClick() {
     // @NOTE: If no date was entered, then filteredData will
     // just be the original tableData.
     buildTable(filteredData);  
-
 };
 
 //using D3 to listen for a cick event on the filter button and execute the handleClick function
