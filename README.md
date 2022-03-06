@@ -22,6 +22,6 @@ The table consists of search fields on the left side of the screen, and the filt
 - Bootstrap v4.0
 ## Summary:
 
-One drawback to the webpage is the display of the data table. The data table should appear on the right side of the screen, but some comments are too long to display on the right. That is why it sometimes appears below and sometimes to the right of the search filters. 
+One drawback to the webpage is the display of the data table. The data table should appear on the right side of the screen, but some comments are too long to display on the right. That is why the table sometimes appears below and sometimes to the right of the search filters. 
 
 To improve the website for further development, I would display the table below the search filters and change the search filter display from vertical to horizontal.Another improvement I recommend is showing an interactive map display with all the ufo sightings, so users can visualize the data and create their conclusions. I recommend visualizing the geographic data with the Google Maps API or tableau. 
